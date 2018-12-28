@@ -18,7 +18,9 @@
     "react-mapbox-autocomplete": "^0.2.3",
     "react-mapbox-gl": "^4.0.2",
     "react-mapbox-gl-draw": "^1.0.5",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "react-throttle": "^0.3.0",
+    "sort-by": "^1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
